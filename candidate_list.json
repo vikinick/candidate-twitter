@@ -1,28 +1,24 @@
 {
-	"candidate_list" : [
-		{
-			"Julian Castro" : ["juliancastro"],
-			"Elizabeth Warren": ["ewarren", "senwarren"],
-			"Cory Booker": ["corybooker", "senbooker"],
-			"Beto O'Rourke": ["betoorourke"],
-			"Amy Klobuchar": ["amyklobuchar","senamyklobuchar"],
-			"Bill de Blasio": ["billdeblasio"],
-			"John Delaney": ["johndelaney", "repjohndelaney"],
-			"Tulsi Gabbard": ["tulsigabbard", "tulsipress"],
-			"Jay Inslee": ["jayinslee", "govinslee"],
-			"Tim Ryan ": ["timryan","reptimryan"],
-			"Marrianne Williamson": ["marwilliamson"],
-			"John Hickenlooper": ["hickenlooper"],
-			"Andrew Yang": ["andrewyang"],
-			"Pete Buttigieg": ["petebuttigieg"],
-			"Joe Biden": ["joebiden"],
-			"Bernie Sanders": ["berniesanders", "sensanders"],
-			"Kamala Harris": ["kamalaharris", "senkamalaharris"],
-			"Kirsten Gillibrand": ["gillabrandny, sengillibrand"],
-			"Michael Bennet": ["michaelbennet", "senatorbennet"],
-			"Eric Swalwell": ["ericswalwell", "repswalwell"]
-		}
-	]
+	"Julian Castro" : ["juliancastro"],
+	"Elizabeth Warren": ["ewarren", "senwarren"],
+	"Cory Booker": ["corybooker", "senbooker"],
+	"Beto O'Rourke": ["betoorourke"],
+	"Amy Klobuchar": ["amyklobuchar","senamyklobuchar"],
+	"Bill de Blasio": ["billdeblasio"],
+	"John Delaney": ["johndelaney", "repjohndelaney"],
+	"Tulsi Gabbard": ["tulsigabbard", "tulsipress"],
+	"Jay Inslee": ["jayinslee", "govinslee"],
+	"Tim Ryan ": ["timryan","reptimryan"],
+	"Marrianne Williamson": ["marwilliamson"],
+	"John Hickenlooper": ["hickenlooper"],
+	"Andrew Yang": ["andrewyang"],
+	"Pete Buttigieg": ["petebuttigieg"],
+	"Joe Biden": ["joebiden"],
+	"Bernie Sanders": ["berniesanders", "sensanders"],
+	"Kamala Harris": ["kamalaharris", "senkamalaharris"],
+	"Kirsten Gillibrand": ["gillabrandny, sengillibrand"],
+	"Michael Bennet": ["michaelbennet", "senatorbennet"],
+	"Eric Swalwell": ["ericswalwell", "repswalwell"]
 }
 
 
