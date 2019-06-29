@@ -18,7 +18,7 @@
 		{"Candidate": "Bernie Sanders", "Accounts" : ["berniesanders", "sensanders"], "Night" : 2},
 		{"Candidate": "Kamala Harris", "Accounts" : ["kamalaharris", "senkamalaharris"], "Night" : 2},
 		{"Candidate": "Kirsten Gillibrand", "Accounts" : ["gillabrandny, sengillibrand"], "Night" : 2},
-		{"Candidate": "Michael Bennet", "Accounts" : ["Michael Bennet", "senatorbennet"], "Night" : 2},
+		{"Candidate": "Michael Bennet", "Accounts" : ["michaelbennet", "senatorbennet"], "Night" : 2},
 		{"Candidate": "Eric Swalwell", "Accounts" : ["ericswalwell", "repswalwell"], "Night" : 2}
 	]
 }
