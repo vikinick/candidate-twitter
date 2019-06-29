@@ -1,26 +1,29 @@
 {
 	"candidate_list" : [
-		{"Candidate": "Julian Castro", "Accounts" : ["juliancastro"], "Night" : 1},
-		{"Candidate": "Elizabeth Warren", "Accounts" : ["ewarren", "senwarren"], "Night" : 1},
-		{"Candidate": "Cory Booker", "Accounts" : ["corybooker", "senbooker"], "Night" : 1},
-		{"Candidate": "Beto O'Rourke", "Accounts" : ["betoorourke"], "Night" : 1},
-		{"Candidate": "Amy Klobuchar", "Accounts" : ["amyklobuchar","senamyklobuchar"], "Night" : 1},
-		{"Candidate": "Bill de Blasio", "Accounts" : ["billdeblasio"], "Night" : 1},
-		{"Candidate": "John Delaney", "Accounts" : ["johndelaney", "repjohndelaney"], "Night" : 1},
-		{"Candidate": "Tulsi Gabbard", "Accounts" : ["tulsigabbard", "tulsipress"], "Night" : 1},
-		{"Candidate": "Jay Inslee", "Accounts" : ["jayinslee", "govinslee"], "Night" : 1},
-		{"Candidate": "Tim Ryan ", "Accounts" : ["timryan","reptimryan"], "Night" : 1},
-		{"Candidate": "Marrianne Williamson", "Accounts" : ["marwilliamson"], "Night" : 2},
-		{"Candidate": "John Hickenlooper", "Accounts" : ["hickenlooper"], "Night" : 2},
-		{"Candidate": "Andrew Yang", "Accounts" : ["andrewyang"], "Night" : 2},
-		{"Candidate": "Pete Buttigieg", "Accounts" : ["petebuttigieg"], "Night" : 2},
-		{"Candidate": "Joe Biden", "Accounts" : ["joebiden"], "Night" : 2},
-		{"Candidate": "Bernie Sanders", "Accounts" : ["berniesanders", "sensanders"], "Night" : 2},
-		{"Candidate": "Kamala Harris", "Accounts" : ["kamalaharris", "senkamalaharris"], "Night" : 2},
-		{"Candidate": "Kirsten Gillibrand", "Accounts" : ["gillabrandny, sengillibrand"], "Night" : 2},
-		{"Candidate": "Michael Bennet", "Accounts" : ["michaelbennet", "senatorbennet"], "Night" : 2},
-		{"Candidate": "Eric Swalwell", "Accounts" : ["ericswalwell", "repswalwell"], "Night" : 2}
+		{
+			"Julian Castro" : ["juliancastro"],
+			"Elizabeth Warren": ["ewarren", "senwarren"],
+			"Cory Booker": ["corybooker", "senbooker"],
+			"Beto O'Rourke": ["betoorourke"],
+			"Amy Klobuchar": ["amyklobuchar","senamyklobuchar"],
+			"Bill de Blasio": ["billdeblasio"],
+			"John Delaney": ["johndelaney", "repjohndelaney"],
+			"Tulsi Gabbard": ["tulsigabbard", "tulsipress"],
+			"Jay Inslee": ["jayinslee", "govinslee"],
+			"Tim Ryan ": ["timryan","reptimryan"],
+			"Marrianne Williamson": ["marwilliamson"],
+			"John Hickenlooper": ["hickenlooper"],
+			"Andrew Yang": ["andrewyang"],
+			"Pete Buttigieg": ["petebuttigieg"],
+			"Joe Biden": ["joebiden"],
+			"Bernie Sanders": ["berniesanders", "sensanders"],
+			"Kamala Harris": ["kamalaharris", "senkamalaharris"],
+			"Kirsten Gillibrand": ["gillabrandny, sengillibrand"],
+			"Michael Bennet": ["michaelbennet", "senatorbennet"],
+			"Eric Swalwell": ["ericswalwell", "repswalwell"]
+		}
 	]
 }
+
 
 
